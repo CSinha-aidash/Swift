@@ -2,7 +2,7 @@
 
 ### Started with varibles, constant and static in Swift
 
-### Understood wy to use states like Stirg, Int, Bool, Double, Float
+### Understood why to use states like Stirg, Int, Bool, Double, Float
 
 ### Write Functions in swift
 - How to pass parameters
