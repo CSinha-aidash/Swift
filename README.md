@@ -46,3 +46,5 @@
 ### Enums and Switch
 
 ### Protocols
+
+### Closures
